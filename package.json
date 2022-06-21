@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "browserify": "^17.0.0",
+    "vcard-parser": "^1.0.0"
+  }
+}
