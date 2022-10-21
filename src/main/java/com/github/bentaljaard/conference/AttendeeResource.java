@@ -17,7 +17,6 @@ public class AttendeeResource {
     @GET
     @Produces(MediaType.APPLICATION_JSON)
     public List<Attendee> getAttendees(){
-
         return Attendee.listAll();
     }
 
